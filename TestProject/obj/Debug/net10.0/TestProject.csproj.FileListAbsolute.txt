@@ -1,0 +1,14 @@
+/home/cytech/CSharp/TestProject/obj/Debug/net10.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/cytech/CSharp/TestProject/obj/Debug/net10.0/TestProject.AssemblyInfoInputs.cache
+/home/cytech/CSharp/TestProject/obj/Debug/net10.0/TestProject.AssemblyInfo.cs
+/home/cytech/CSharp/TestProject/obj/Debug/net10.0/TestProject.csproj.CoreCompileInputs.cache
+/home/cytech/CSharp/TestProject/bin/Debug/net10.0/TestProject
+/home/cytech/CSharp/TestProject/bin/Debug/net10.0/TestProject.deps.json
+/home/cytech/CSharp/TestProject/bin/Debug/net10.0/TestProject.runtimeconfig.json
+/home/cytech/CSharp/TestProject/bin/Debug/net10.0/TestProject.dll
+/home/cytech/CSharp/TestProject/bin/Debug/net10.0/TestProject.pdb
+/home/cytech/CSharp/TestProject/obj/Debug/net10.0/TestProject.dll
+/home/cytech/CSharp/TestProject/obj/Debug/net10.0/refint/TestProject.dll
+/home/cytech/CSharp/TestProject/obj/Debug/net10.0/TestProject.pdb
+/home/cytech/CSharp/TestProject/obj/Debug/net10.0/TestProject.genruntimeconfig.cache
+/home/cytech/CSharp/TestProject/obj/Debug/net10.0/ref/TestProject.dll
